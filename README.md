@@ -1,2 +1,2 @@
 **Final-report**
-![image](22.pdf)
+![pdf](Nguyễn_Bá_Thành_STT18.pdf)
