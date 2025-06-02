@@ -1,2 +1,1 @@
-**Final-report**
-![image](Nguyễn_Bá_Thành_STT18.pdf)
+<a href="pdfs/ProjMarr_slides.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
